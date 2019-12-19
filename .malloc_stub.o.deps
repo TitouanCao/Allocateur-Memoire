@@ -1,1 +1,0 @@
-malloc_stub.o: malloc_stub.c mem.h common.h
